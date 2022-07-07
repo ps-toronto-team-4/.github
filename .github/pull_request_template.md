@@ -1,16 +1,13 @@
-## 📑 Description
+## Description
 <!-- Add a brief description of the pr -->
 
-<!-- You can also choose to add a list of changes and if they have been completed or not by using the markdown to-do list syntax
-- [ ] Not Completed
-- [x] Completed
--->
-
 ## Related Issue
-- [ ] This pull request relates to at least one particular issue  
-  - [issue name](link_here)
+- [ ] This pull request relates to at least one particular issue
 
-## ✅ Checks
+  <!-- please update the issue number in the link below  -->
+  - [issue name](https://github.com/ps-toronto-team-4/.github/issues/ISSUENUMBER)
+
+## Checks
 - [ ] My pull request adheres to the code style of this project
 - [ ] My code requires changes to documentation
 - [ ] I have updated the documentation as required
